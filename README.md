@@ -1,5 +1,12 @@
 # MyToken
 
+The "MyToken" project in Solidity serves as an example of the programming language's important syntax and features. The goal of this project is to give individuals who are unfamiliar with Solidity a place to start learning about it.
+
+
+## Description
+
+Written in Solidity, a programming language for creating smart contracts for the Ethereum blockchain, this program is a simple contract. A single function in the contract returns the string "MyToken" This project acts as an easy-to-understand lesson on Solidity programming and can be used as a platform for following deeper projects.
+
 ## Getting Started
 
 ### Executing program
